@@ -3,11 +3,11 @@ How to Install Canon Wireless Printer: Quick Setup Guide
 
 To connect your Canon printer to WiFi, turn on the printer and access its **Wireless LAN Setup** via the control panel.
 Select your network, enter the WiFi password, and confirm the connection. Download the latest drivers from
-`https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_, install them, and print a test page to verify setup. **[+1-801-878-6858 USA]**
+`https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_, install them, and print a test page to verify setup. **[Dial +1-801-878-6858 USA]**
 
 `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_     
 
-**[+1-801-878-6858 USA]**
+**[Dial +1-801-878-6858 USA]**
 
 Steps to Connect Canon Printer to WiFi
 --------------------------------------
